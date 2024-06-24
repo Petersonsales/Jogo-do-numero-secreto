@@ -11,7 +11,3 @@
 </div>
 
 <br> <br>
-
-<div align="center">
-<img alt="projeto DevLinks" src=".github/numero secreto.png" width="100%">
-</div>
